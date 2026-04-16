@@ -54,14 +54,38 @@ This project combines **SQL, Power BI, and Python (NLP)** to analyze customer be
 ### 📊 Overview  
 ![Overview Dashboard](overview.png)
 
+**Analysis:**
+- Overall conversion rate is **9.6%**, indicating that a large portion of users do not complete purchases  
+- High volume of **views (9M)** compared to **clicks (2M)** suggests weak engagement in the funnel  
+- Engagement trends show a **decline over time**, pointing to reduced campaign effectiveness  
+- Some products receive high traffic but do not translate into conversions  
+
 ### 📈 Conversion Analysis  
 ![Conversion Dashboard](conversion.png)
+
+**Analysis:**
+- There is a **significant drop-off** between the “View” and “Purchase” stages  
+- Certain products consistently outperform others, indicating **strong product-market fit**  
+- Conversion rates fluctuate by month, suggesting **seasonality effects**  
+- Funnel inefficiencies highlight opportunities to optimize the customer journey 
 
 ### 📱 Social Media Performance  
 ![Social Media Dashboard](social.png)
 
+**Analysis:**
+- Social media generates high visibility but **low interaction (clicks)**  
+- The gap between views and clicks indicates **low content effectiveness or targeting issues**  
+- Engagement has been **declining steadily**, suggesting audience fatigue or poor campaign optimization  
+- Content type plays a key role in performance and should be optimized 
+
 ### 🗣️ Customer Sentiment  
 ![Sentiment Dashboard](sentiment.png)
+
+**Analysis:**
+- Average rating is **3.69**, indicating moderate customer satisfaction  
+- Majority of reviews are positive, but **mixed and negative sentiment is still significant**  
+- Negative sentiment is often related to **pricing and perceived value**  
+- Products with lower sentiment scores tend to align with **lower conversion rates**, showing a clear relationship between sentiment and purchasing behavior  
 
 ---
 
